@@ -33,9 +33,6 @@
   </p>
 </p>
 
-<h3 align="center">Visitors<h3>
 <p align="center">
-  <a href="https://www.github.com/joewadsworth">
-    <img width="20%" src="https://counter3.stat.ovh/private/freecounterstat.php?c=ac5wp63qkdysny17grdnybtyhnsemy78">
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=www.github.com/joewadsworth" alt="Hits" />
 </p>
